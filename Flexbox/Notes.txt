@@ -1,0 +1,18 @@
+Flex Container with 'Row'
+
+display
+flex-direction
+flex-wrap
+flex-flow
+
+justify-content = alignment on 'main-axis' (flex-start, center, flex-end, space-between, space-evenly, space-around)
+align-items = alignment on 'cross-axis' (flex-start, center, stretch(default), flex-end, baseline)
+align-content = alignment on 'cross-axis'. works on 'wrap', with multiple row items(flex-start, center, flex-end, space-between, space-evenly, space-around)
+
+Flex Items
+
+order: 0 (default value), 1, 2, ...(lowest to highest in left to right)
+flex-grow: 0 (default value), 1, 2, ...
+flex-shrink: 1 (default value)
+flex-basis: auto (default value) width of flex items
+align-self: auto (default value, which is 'stretch' inherited from align-items)
