@@ -7,7 +7,7 @@ flex-flow
 
 justify-content = alignment on 'main-axis' (flex-start, center, flex-end, space-between, space-evenly, space-around)
 align-items = alignment on 'cross-axis' (flex-start, center, stretch(default), flex-end, baseline)
-align-content = alignment on 'cross-axis'. works on 'wrap', with multiple row items(flex-start, center, flex-end, space-between, space-evenly, space-around)
+align-content = alignment on 'cross-axis'. works on 'wrap', with multiple row items (flex-start, center, flex-end, space-between, space-evenly, space-around)
 
 Flex Items
 
